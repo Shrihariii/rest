@@ -1,0 +1,8 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/b197ebe7-8059-4dbe-90a8-15f7bf3d746f/microsoft.web/sites/subscriptions/b197ebe7-8059-4dbe-90a8-15f7bf3d746f/resourceGroups/cal-1136-e7/providers/Microsoft.Web/sites/restapinodejs123",
+    "appService.deploySubpath": ".",
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ]
+}
